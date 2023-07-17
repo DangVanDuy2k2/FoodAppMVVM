@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">FoodAppMVVM</string>
+    <string name="splash_text">The product is programmed and developed by DuyDV</string>
+    //Menu
+    <string name="home">Đồ ăn</string>
+    <string name="cart">Giỏ hàng</string>
+    <string name="contact">Liên hệ</string>
+    <string name="feedback">Phản hồi</string>
+    <string name="history">Lịch sử</string>
+    <string name="hint_food">Gợi ý đồ ăn</string>
+
+    <string name="key">food_object</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search_food">Tìm kiếm ...</string>
+    <string name="sale">Giảm</string>
+    <string name="VND">.000 VND</string>
+    <string name="food_detail_title">Chi tiết món ăn</string>
+    <string name="price">Giá:</string>
+    <string name="description">Mô tả</string>
+    <string name="add_to_cart">Thêm vào giỏ hàng</string>
+    <string name="added_to_cart">Đã thêm vào giỏ hàng</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="one">1</string>
+    <string name="sum_price">Tổng tiền:</string>
+    <string name="order">Đặt hàng</string>
+    <string name="delete">Xóa</string>
+    <string name="title_dialod_delete_food">Xác nhận xóa khỏi giỏ hàng</string>
+    <string name="message_dialog_delete_food">Bạn có chắc chắn muốn xóa món ăn này không?</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="order_detail">Chi tiết đơn hàng:</string>
+    <string name="payment_method">Phương thức thanh toán</string>
+    <string name="cash">Tiền mặt</string>
+    <string name="fullname">Họ và tên (*)</string>
+    <string name="phone">Số điện thoại (*)</string>
+    <string name="address">Địa chỉ(*)</string>
+    <string name="quantity">Số lượng:</string>
+    <string name="toast_order">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="message_order_success">Đặt hàng thành công</string>
+
+    <string name="label_id">Mã đơn hàng:</string>
+    <string name="label_name">Họ tên:</string>
+    <string name="label_phone">Số điện thoại:</string>
+    <string name="label_address">Địa chỉ nhận:</string>
+    <string name="label_price">Tổng tiền:</string>
+    <string name="label_date">Ngày đặt hàng:</string>
+    <string name="label_payment">Thanh toán:</string>
+    <string name="label_menu">Thực đơn:</string>
+
+    <string name="feedback_name">Họ và Tên (*)</string>
+    <string name="feedback_email">Email</string>
+    <string name="feedback_phone">Số điện thoại</string>
+    <string name="feedback_comment">Bình luận (*)</string>
+    <string name="send_feedback">Gửi phản hồi</string>
+
+    <string name="feedback_toat_name">Vui lòng nhập Họ và Tên</string>
+    <string name="feedback_toat_comment">Vui lòng nhập bình luận của bạn</string>
+    <string name="send_feedback_success">Gửi phản hồi thành công</string>
+</resources>
